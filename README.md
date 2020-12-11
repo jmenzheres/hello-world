@@ -1,3 +1,3 @@
 # hello-world
 My repository 
-Here are some changes.
+Some changes are made.
